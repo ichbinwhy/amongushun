@@ -12,7 +12,7 @@ A magyarítás telepítése előtt érdemes backupot csinálnod a felülirandó 
 - A játékba belépve, állítsd át a nyelvet Oroszra (Russian).
 
 # Hibák & Elírások
-Ha hibát találsz a fordításban, nyugodtan nyithatsz egy új [hibajegyet](https://github.com/ichbinwhy/amongushun/issues/new). Kérlek a hiba pontosabb behatárolhatósága érdekében csatolj sreenshotot is.
+Ha hibát találsz a fordításban, nyugodtan nyithatsz egy új [hibajegyet](https://github.com/ichbinwhy/amongushun/issues/new). Kérlek a hiba pontosabb behatárolhatósága érdekében csatolj screenshotot is.
 
 # Frissítések
 Minden egyes új frissítésnél - amit kiadnak a játékhoz, és érinti a sharedassets0 fájlt - frissítenem kell a fordítást is. Ha régi verziót használsz ezekből a fájlokból, akkor a játék egyszerűen kifagy.
