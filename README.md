@@ -9,7 +9,7 @@ A magyarítás telepítése előtt érdemes backupot csinálnod a felülirandó 
 - Töltsd le a legfrissebb [release](https://github.com/ichbinwhy/amongushun/releases) fájlokat.
 - Keresd meg a játék Data könyvtárát. (Among Us\Among Us_Data)
 - Írd felül a már meglévő assets fájlokat.
-- A játékba belépve, állítsd át a nyelvet Oroszra (Russian).
+- A játékba belépve, állítsd át a nyelvet Magyarra (Hungarian).
 
 # Hibák & Elírások
 Ha hibát találsz a fordításban, nyugodtan nyithatsz egy új [hibajegyet](https://github.com/ichbinwhy/amongushun/issues/new). Kérlek a hiba pontosabb behatárolhatósága érdekében csatolj screenshotot is.
