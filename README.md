@@ -6,7 +6,7 @@
 ##  Biztonsági mentés
 A magyarítás telepítése előtt érdemes backupot csinálnod a felülirandó fájlokról. Ezt a legegyszerűbben úgy teheted meg, hogy az eredeti fájloknak .bak kiterjesztést adsz. Ha visszaállítanád őket, csak ki kell törölnöd ez a kiterjesztést, és az eredeti (.assets) kiterjesztést kell használnod. Ezt akkor érdemes megcsinálnod, ha nem eredeti [(steam)](https://store.steampowered.com/app/945360/Among_Us/) játékról beszélünk, ugyanis törtjátéknál nem tudod ellenőrizni a játékfájlok aláírását.
 ##  Telepítés menete
-- Töltsd le a legfrissebb release fájlokat.
+- Töltsd le a legfrissebb [release](https://github.com/ichbinwhy/amongushun/releases) fájlokat.
 - Keresd meg a játék Data könyvtárát. (Among Us\Among Us_Data)
 - Írd felül a már meglévő assets fájlokat.
 - A játékba belépve, állítsd át a nyelvet Oroszra (Russian).
