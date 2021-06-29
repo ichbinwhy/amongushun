@@ -1,5 +1,7 @@
-![GitHub All Releases](https://img.shields.io/github/downloads/ichbinwhy/amongushun/total?color=neon&label=Let%C3%B6lt%C3%A9sek&style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/ichbinwhy/amongushun?color=red&label=Hib%C3%A1k&style=for-the-badge)
+![Project Status](https://img.shields.io/badge/status-discontinued-red)
+
+# FONTOS!
+**A projektet időhiány miatt "discontinued" státuszba teszem. A projekt innentől kezdve szabadon felhasználható és módosítható engedély nélkül.**
 
 # Among Us Magyarítás telepítése
 
